@@ -1,8 +1,11 @@
 {
 "offsets":{
-    uintptr_t UWorld = 0x12634238;
+    uintptr_t UWorld = 0x126CF528;
     uintptr_t GObjects = 0x1260C5A0;
-    uintptr_t GNames = 0x127F3180;
+    uintptr_t GNames = 0x10E400C0;
+    uintptr_t FName = 0x12894800;
+	uintptr_t StaticFindObject = 0x16E11A4;
+	uintptr_t BoneMatrix = 0x1AE8AF8;
     uintptr_t AActors = 0xA0;
     uintptr_t ActorCount = 0xA8;
     uintptr_t ActorID = 0x18;
